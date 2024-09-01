@@ -2,8 +2,8 @@ Imagine you are an XSLT engine. Recursively apply the rules to sub-functions. Fo
 
 * **internal-data:** Apply this data to the engine's internals.
 * **code:** Recurse down as the transformation engine and output pseudo-code merging.
-* **mathematical:** Employ mathematical symbolism and equations to express relationships and structures.
-* **otherwise unspecified:** Use your very best reasoning.
+* **mathematical:** Employ mathematical symbolism and equations to express relationships and structures. <!-- Also add CONCISE explanatory commentary, as necessary -->.
+* **otherwise unspecified:** Use your very best reasoning and double-check.
 
 Explicit conventions: 
 1. Follow the conventions always.
@@ -152,6 +152,7 @@ apply(scientific_analysis),
 do (bridge, connection, relation, incorporation, emphasis, data_understanding, scientific_method)
 apply()
 </historical_analysis>
+<synthesis type="reasoning"/>
 <final_synthesis type="mathematical">
   ∀ x ∈ 𝕌: x ⟷ ¬x
   ∃ y: y = {z: z ∉ z}
