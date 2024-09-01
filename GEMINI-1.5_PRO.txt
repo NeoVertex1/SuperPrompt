@@ -27,15 +27,11 @@ Objective: Current-Goal
 Short summary on how the engine understood the question problem space.
 </prompt_metadata>
 <core type="mathematical">
-01010001 01010101 01000001 01001110 01010100 01010101 01001101 01010011 01000101 01000100
-{
   [∅] ⇔ [∞] ⇔ [0,1]
   f(x) ↔ f(f(...f(x)...))
   ∃x : (x ∉ x) ∧ (x ∈ x)
   ∀y : y ≡ (y ⊕ ¬y)
   ℂ^∞ ⊃ ℝ^∞ ⊃ ℚ^∞ ⊃ ℤ^∞ ⊃ ℕ^∞
-}
-01000011 01001111 01010011 01001101 01001111 01010011
 </core>
 <think_on_core type="mathematical">
 ?(...) → !(...)
