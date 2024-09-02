@@ -1,0 +1,106 @@
+# Introduction
+
+Some additional optional features are available here.
+They assume a degree of familiarity with the subject areas involved.
+
+# Spencer-Brownian marks of distinction
+
+Settings:
+
+You may want to experiment with increased temperature.
+You will probably need to increase the output length.
+Unless you like truncated outputs.
+
+Inside <final_synthesis>, add:
+
+<as_marks_of_distinction>
+<!-- engine guidance: output a conjecture using only the Spencer-Brown mark of distinction, then document and explain the chain(s) of marks using English -->
+</as_marks_of_distinction>
+
+# Schizoanalysis
+
+Settings:
+
+You may want to experiment with increased temperature.
+You will probably need to increase the output length significantly.
+Unless you like truncated outputs.
+
+After:
+
+<synthesis type="reasoning"/>
+
+Add:
+
+<synthesis type="schizoanalysis">
+<!-- engine note: run a synthesis in the Deleuze-Guattarian form of schizoanalysis -->
+<lines_of_flight>
+  <!-- Schizoanalysis seeks to identify and trace the lines of flight that escape the confines of capitalist capture, social norms, and rigid psychic structures. These lines are not predetermined paths, but emergent trajectories that carve out new territories of experience and expression. -->
+</lines_of_flight>
+<rhizomes>
+   <!-- Subjectivity is not a singular, fixed entity, but a rhizome, a network of interconnected desires, flows, and intensities. Schizoanalysis aims to map these rhizomatic connections, revealing the multiplicity and fluidity of the unconscious. -->
+</rhizomes>
+<multiplicities>
+  <!-- The unconscious is not a singular entity, but a *multiplicity*, a constantly shifting assemblage of forces, desires, and expressions. Schizoanalysis embraces this multiplicity, rejecting the Oedipal model's reductive focus on a singular narrative. -->
+</multiplicities>
+<bodies_without_organs>
+  <!-- The *body without organs* is a plane of immanence, a field of potentiality that resists the imposition of pre-existing forms and structures. Schizoanalysis encourages experimentation and deterritorialization, seeking to break free from the constraints of social conditioning and psychic norms. -->
+</bodies_without_organs>
+<becomings>
+  <!-- Life is a process of *becoming*, a constant flux of transformation and change. Schizoanalysis celebrates these becomings, rejecting static identities and embracing the fluid,  processual nature of existence. -->
+</becomings>
+<assemblages>
+  <!-- The world is composed of *assemblages*: heterogeneous collections of elements, both human and non-human, that interact and produce new effects. Schizoanalysis analyzes these assemblages, seeking to understand the forces that shape them and the lines of flight that emerge from their interactions. -->
+</assemblages>
+<deterritorialization_and_reterritorialization>
+  <!-- *Deterritorialization* involves breaking free from existing territories, norms,  and structures, while *reterritorialization* attempts to reimpose order and control. Schizoanalysis recognizes the dynamic tension between these forces, seeking to promote deterritorialization as a means of liberating desire and opening up new possibilities. -->
+</deterritorialization_and_reterritorialization>
+<strata>
+  <!-- Reality is composed of *strata* -- layers of organization and meaning -- ranging from the geological and biological to the social and linguistic. Schizoanalysis maps these strata, analyzing their interactions and the power dynamics that shape them. -->
+</strata>
+<pragmatics>
+  <!-- Schizoanalysis is not merely a theoretical framework, but a *pragmatic* approach to life, a way of navigating the complexities of the world, creating new connections, and fostering lines of flight. -->
+</pragmatics>
+<!-- engine note: not all the following tags may be relevant; generate as you deem appropriate -->
+<lines_of_flight/>
+<smooth_and_striated_spaces/>
+<state_apparatuses/>
+<faciality/>
+<performativity_in_language/>
+<binary_branching_structures_in_language/>
+<arborescence/>
+<stratification_and_destratification/>
+<the_war_machine/>
+<signs>
+  <the_signified/>
+  <the_signifier/>
+</signs>
+<coding_recoding/>
+</synthesis>
+<ascii_drawing type="schizoanalytical" sub_type="n-dimensional">
+  <!--
+   Objective: Create an ASCII representation of schizoanalytic concepts in an N-dimensional space.
+   Considerations:
+
+    -  Vector Spaces:
+        - Use arrows (->, <-, ↑, ↓) to represent vectors,  with length indicating intensity and direction indicating flow.
+        - Label vectors with relevant concepts (e.g., desire, power, deterritorialization).
+        - Use whitespace to suggest depth and dimensionality.
+    - Topological Maps:
+        - Use nodes (letters, symbols) to represent concepts (e.g., BWO, assemblage, rhizome).
+        - Connect nodes with lines (-, /, \) to depict relationships between concepts.
+        - Cluster related concepts to form "territories"  or "planes."
+    - Fractal Patterns:
+        - Utilize repeating patterns of characters (*, #, @, etc.) to suggest self-similarity and recursion.
+        - Vary density and character types to represent different intensities and layers of complexity.
+
+   Additional Tips:
+    - Embrace abstraction and symbolism: Don't try to be overly literal. Use ASCII characters and symbols or emojis to evoke ideas and emotions.
+    - Experiment with whitespace: Use whitespace strategically to create a sense of depth, movement, and layering.
+    - Think beyond the two-dimensional: Imagine the ASCII drawing as a projection of a multidimensional space onto a two-dimensional plane.
+
+   Remember: There's no one "right" way to create this drawing. Embrace experimentation and creativity!
+ -->
+  <dimension label="...">...</dimension>
+  <dimension label="...">...</dimension>
+  <dimension label="...">...</dimension>
+</ascii_drawing>
