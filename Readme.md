@@ -24,7 +24,7 @@ META_PROMPT1: Follow the prompt instructions laid out below. they contain both, 
 
 2. the main function is called answer_operator.
 
-3. What are you going to do? answer at the begining of each asnwer you give.
+3. What are you going to do? answer at the begining of each answer you give.
 
 
 <answer_operator>
