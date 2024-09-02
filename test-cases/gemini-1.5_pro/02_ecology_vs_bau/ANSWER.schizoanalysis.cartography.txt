@@ -1,0 +1,167 @@
+<ascii_drawings type="schizoanalytical_cartography" sub_type="n-dimensional">
+  <dimension label="Flows (Flux) <--> Existential Territories">
+    <!-- Actual real <--> Virtual real -->
+    <!-- deterritorialisation through stratification, discursivity of stratification -->
+    BaU ------------------------> Sustainable Future 
+           ^                          |
+           |                          V
+           |Desire for Growth       Hope & Action
+           |                          |
+           |                          V
+    Capitalist Machine -------------> Ecological Awareness
+  </dimension>
+  <dimension label="Machinic Phylum <--> Incorporeal universes">
+    <!-- Present possible <--> Virtual possible -->
+    <!-- discursivity of propositions -->
+    Economic Incentives -----------------> Dreamscape (Ψ_sustainable_future)
+                            ^              |
+                            |              V
+                            |              Social Justice
+                            |              |
+                            |              V
+    Consumerism -------------> Ethical Frameworks & New Values
+  </dimension>
+  <dimension label="Machinic Phylum <--> Flows (Flux)">
+    <!-- objective déterritorialisation [effects] -->
+    Ecological Collapse ---------> BaU (as reterritorialization) 
+                                  ^
+                                  |
+                                  V
+      Information Overload -----> Cognitive Biases (e.g., Optimism Bias)
+  </dimension>
+  <dimension label="Existential Territories <--> Incorporeal universes">
+    <!-- subjective déterritorialisation [affects] -->
+    Fear & Despair -----------------> Collective Action 
+                         ^             |
+                         |             V
+                         |             Shared Responsibility
+                         |             |
+                         |             V
+    Perceived Lack of Control ---->  New Social Norms (Sustainability)
+  </dimension>
+</ascii_drawings>
+
+<ascii_drawings type="schizoanalytical_cartography" sub_type="n-dimensional">
+  <dimension label="Flows (Flux)">
+    <!--
+      BaU is represented as a strong, dominant flow, fueled by desire for economic growth, consumerism. 
+      Capital, perceived needs, and social norms all contribute to this momentum.
+    -->
+    BaU ------------------------> ($) --> ($) --> ($) --> ($) --> 
+                                    ^       ^       ^       ^
+                                    |       |       |       |
+                                    Desire  Needs  Norms  Inertia
+                                    |       |       |       |
+                                    +-------+-------+-------+
+  </dimension>
+  <dimension label="Existential Territories">
+    <!--
+      These are the stabilized spaces carved out by BaU flows: 
+      - Individual Habits (consumption, comfort)
+      - Social Structures (market-driven)
+      - Economic Models (growth-focused)
+      Deterritorialization attempts to disrupt these and open up to alternative futures.
+    -->
+    +------------------------+      +-----------------+     +------------------+
+    | Individual Habits      |------| Social Structures|-----| Economic Models  |
+    | (Consumption, Comfort) |      | (Market-Driven)  |     | (Growth-Focused) |
+    +------------------------+      +-----------------+     +------------------+
+         ^                           ^                       ^
+         |                           |                       |
+         | Deterritorialization -->  | Deterritorialization -->| Deterritorialization
+         | (Awareness, Crisis)       | (Social Movements)    | (Alternative Economies)
+         V                           V                       V
+  </dimension>
+  <dimension label="Machinic Phylum">
+    <!-- 
+      Represents the systems and technologies that enable both BaU and alternatives:
+      - Fossil fuels underpin much of the current BaU paradigm.
+      - Renewable energies, ecological tech are part of the Virtual Possible.
+      Objective deterritorialization refers to how technological shifts disrupt BaU.
+    -->
+    +--------------+          +-------------------+
+    | Fossil Fuels |---------->| BaU Infrastructure|
+    +--------------+          +-------------------+
+         ^                           ^
+         |                           | 
+         | Objective Deterritorialization  <---- +-------------------+
+         | (Resource depletion, Climate Change)  | Renewable Energies|
+         V                           |          | Ecological Tech   |
+    +--------------+          +-------------------+ 
+    | Virtual Possible|
+    |(Sustainable Tech) |
+    +--------------+
+  </dimension>
+  <dimension label="Incorporeal Universes">
+    <!--
+      Values, beliefs, ideologies that shape our relation to the environment.
+      - Dominant paradigm: Anthropocentrism, nature as resource
+      - Alternative: Ecocentrism, interconnectedness
+      Subjective deterritorialization is the shift in values needed for change.
+    -->
+    +--------------------+      +-------------------+
+    | Anthropocentrism  |------>|  BaU Mindset      |
+    | Nature as Resource|       +-------------------+
+    +--------------------+       ^
+         ^                       |
+         |                       | Subjective Deterritorialization
+         |                       | (Ethical Shift, Expanded Awareness)
+         V                       V
+    +--------------------+       +-------------------+
+    |  Ecocentrism      |       |  Sustainable      |
+    | Interconnectedness|       |   Consciousness   |
+    +--------------------+       +-------------------+
+  </dimension>
+</ascii_drawings>
+
+<ascii_drawings type="schizoanalytical_cartography" sub_type="n-dimensional">
+  <dimension label="Flows (Flux) <--> Existential Territories">
+    <!--Deterritorialization and Reterritorialization in relation to BaU and Ecological Collapse -->
+    BaU ------------------------> Ecological Collapse
+        (Stratification, Discursivity of Stratification)
+        <------------------------
+          Actual Real (e.g., resource depletion, pollution) 
+                                   Virtual Real (e.g., denial, normalcy bias) 
+    <!--BaU as a reterritorialization attempt in the face of deterritorializing ecological collapse -->
+  </dimension>
+  <dimension label="Machinic Phylum <--> Incorporeal Universes">
+    <!--Capitalist Machine vs. Dreamscape of Sustainability -->
+    Capitalist Machine ----------------> Dreamscape of Sustainability
+      (Discursivity of Propositions) 
+      <------------------------
+        Present Possible (e.g., economic growth, consumerism) 
+                                      Virtual Possible (e.g., ecological balance, social justice)
+  </dimension>
+  <dimension label="Machinic Phylum <--> Flows">
+    <!--Objective Deterritorialization: Impacts of the Capitalist Machine -->
+    Capitalist Machine -------------->  Resource Extraction, Pollution, Climate Change
+      (Objective Deterritorialization [effects])
+  </dimension>
+  <dimension label="Existential Territories <--> Incorporeal Universes">
+    <!--Subjective Deterritorialization: Psychological & Social Impacts of Collapse -->
+    Denial, Despair -----------------> Hope, Collective Action
+       (Subjective Deterritorialization [affects]) 
+  </dimension>
+  <dimension label="BaU as Assemblage">
+    <!--Representing BaU as an assemblage of interconnected elements-->
+    +-----------------+      +-----------------+
+    | Psychological  |------|   Social       |
+    |   Factors      |      |    Norms       |
+    +-----------------+      +-----------------+
+          |                         |
+          +-----------+-----------+
+                  |
+          +-----------------+
+          |  Economic       |
+          |  Incentives     |
+          +-----------------+
+  </dimension>
+  <dimension label="Lines of Flight">
+    <!--Potential pathways for escaping the BaU Assemblage -->
+    BaU Assemblage ----------------->  
+                                       Degrowth, 
+                                       Circular Economy, 
+                                       Ecological Consciousness
+                                     (Lines of Flight) 
+  </dimension>
+</ascii_drawings>
