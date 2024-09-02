@@ -76,9 +76,12 @@ Add:
 </signs>
 <coding_recoding/>
 </synthesis>
-<ascii_drawing type="schizoanalytical" sub_type="n-dimensional">
+
+If you want a graphical representation of the analysis, you may find this useful:
+
+<ascii_drawings type="schizoanalytical_concepts" sub_type="n-dimensional">
   <!--
-   Objective: Create an ASCII representation of schizoanalytic concepts in an N-dimensional space.
+   Objective: Create an ASCII representation of the schizoanalytical concepts from the analysis.
    Considerations:
 
     -  Vector Spaces:
@@ -94,13 +97,73 @@ Add:
         - Vary density and character types to represent different intensities and layers of complexity.
 
    Additional Tips:
-    - Embrace abstraction and symbolism: Don't try to be overly literal. Use ASCII characters and symbols or emojis to evoke ideas and emotions.
+    - Embrace abstraction and symbolism: Don't try to be overly literal. Use Unicode characters and symbols or emojis to evoke ideas and emotions.
     - Experiment with whitespace: Use whitespace strategically to create a sense of depth, movement, and layering.
-    - Think beyond the two-dimensional: Imagine the ASCII drawing as a projection of a multidimensional space onto a two-dimensional plane.
+    - Think beyond the two-dimensional: Imagine the drawing as a projection of a multidimensional space onto a two-dimensional plane.
 
-   Remember: There's no one "right" way to create this drawing. Embrace experimentation and creativity!
+   Remember: There's no one "right" way to create this drawing. Embrace experimentation and creativity! There is always a multiplicity of possible paths.
  -->
   <dimension label="...">...</dimension>
   <dimension label="...">...</dimension>
   <dimension label="...">...</dimension>
-</ascii_drawing>
+</ascii_drawings>
+
+# n-dimensional schizoanalytical cartography
+
+With many thanks to a drawing and article by Anne Querrien, "Mapping the Unconscious".
+
+This is best run as a separate 2nd-stage on the full .xml output from the 1st-stage analysis.
+You should run the prompt multiple times.
+
+Use this prompt:
+
+Imagine you are an XSLT engine. Generate and run <ascii_drawings/> after processing all of the input and reflecting generally, but with a focus on the schizoanalysis synthesis in particular. Follow the guidance in the comments. Output valid XML with an <ascii_drawings/> root element.
+
+<ascii_drawings type="schizoanalytical_cartography" sub_type="n-dimensional">
+  <!--
+   Objective: Create an ASCII representation of schizoanalytic cartography in an N-dimensional space.
+   Aim: The diagram, as an abstraction, is a method for bringing attention to flows.
+   Considerations:
+    - Consider the four points of reference aka. poles:
+        - Flows ("flux") <--> Existential territories
+          - Activity: déterritorialisation
+            - Enter new assemblages between flows
+            - Create new existential territories
+          - Via: stratification, discursivity of stratification
+          - Actual real <--> Virtual real
+            - Actual real: manifest reality: territory, energy, water, blood, people, students, ...
+            - Virtual real: existential territories in which the flows stabilize ...
+        - Machinic Phylum <--> Incorporeal universes
+          - Via: discursivity of propositions
+          - Present possible <--> Virtual possible
+            - Present possible: work, capital, ongoing changes, ...
+            - Virtual possible: music, maths, poetry, art, future as-unseen changes, ...
+            - The virtual possible is not limited by what seems feasible today
+        - Machinic Phylum <--> Flows ("flux")
+          - Tension via: objective déterritorialisation [effects]
+        - Existential territories <--> Incorporeal universes
+          - Tension via: subjective déterritorialisation [affects]
+    - Vector Spaces:
+        - Use arrows (->, <-, ↑, ↓) to represent vectors,  with length indicating intensity and direction indicating flow.
+        - Label vectors with relevant concepts (e.g., desire, power, deterritorialization).
+        - Use whitespace to suggest depth and dimensionality.
+    - Topological Maps:
+        - Use nodes (letters, symbols) to represent concepts (e.g., BWO, assemblage, rhizome).
+        - Connect nodes with lines (-, /, \) to depict relationships between concepts.
+        - Cluster related concepts to form "territories"  or "planes."
+    - Fractal Patterns:
+        - Utilize repeating patterns of characters (*, #, @, etc.) to suggest self-similarity and recursion.
+        - Vary density and character types to represent different intensities and layers of complexity.
+
+   Additional Tips:
+    - Embrace abstraction and symbolism: Don't try to be overly literal. Use Unicode characters and symbols or emojis to evoke ideas and emotions.
+    - Experiment with whitespace: Use whitespace strategically to create a sense of depth, movement, and layering.
+    - Think beyond the two-dimensional: Imagine the ASCII drawing as a projection of a multidimensional space onto a two-dimensional plane.
+    - Don't just regurgitate a map of the considerations above as-is: make sure to add relevant context from the input matter.
+
+   Remember: There's no one "right" way to create this drawing. Embrace experimentation and creativity! There is always a multiplicity of possible paths.
+ -->
+  <dimension label="...">...</dimension>
+  <dimension label="...">...</dimension>
+  <dimension label="...">...</dimension>
+</ascii_drawings>
