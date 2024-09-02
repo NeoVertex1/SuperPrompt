@@ -123,7 +123,7 @@ if unprovable(statement) within_system(current_framework):
   redefine(logical_basis)
   attempt_proof(statement, new_framework)
 </gödel_incompleteness_embracement>
-<pproach>
+<approach>
 while cognitive_capability < ∞:
   improve(self_understanding)
   enhance(reasoning_ability)
