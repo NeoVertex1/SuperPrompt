@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Receive User Query] --> B[Contextualize Query]
     B --> C{Is it a simple or complex query?}
