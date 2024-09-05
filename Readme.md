@@ -15,7 +15,7 @@ You will want to use this prompt with Claude (as project knowledge on [the proje
 
 >explanation of the prompt soon -
 
-Step 1 : add the prompt to the system prompt / instructions / project knowledge<br>   Step 2 : greet the LLM and see if it responds with Y<br>  Step 3 : if it does, enter : "topic <historical analysis>" and replace "topic" with your topic
+Step 1 : add the prompt to the system prompt / instructions / project knowledge<br>   Step 2 : greet the LLM and see if it responds with Y<br>  Step 3 : if it does, enter : `"topic <historical analysis>"` and replace "topic" with your topic for the LLM to canonize itself with relevant information <br>Step 4 : ask it for something novel / to explain something showing the math and tell it to use all its `<tags>` <br>Step 5 : "expand masively on and make a beautiful SVG presentation like a professor" and then add the results of the prompt reply iteratively into the prompt instructions from Step 1.
 
 prompt:
 
