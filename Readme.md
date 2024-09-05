@@ -6,25 +6,28 @@ This is a project that I decided to opensource because I think it might help oth
 
 This prompt took me many months and is still in phase of forever beta.
 
-You will want to use this prompt with Claude (as instructions) but it also work with other llms.
+You will want to use this prompt with Claude (as project knowledge on [the projects page](https://https://claude.ai/projects)
+) but it also work with other llms.
 
 
 
 >i just made this project on my phone while on vacation will make it better soon.
 
->explanation of the prompt soon
+>explanation of the prompt soon -
+
+Step 1 : add the prompt to the system prompt / instructions / project knowledge<br>   Step 2 : greet the LLM and see if it responds with Y<br>  Step 3 : if it does, enter : "topic <historical analysis>" and replace "topic" with your topic
 
 prompt:
 
 ```xml
 <rules>
-META_PROMPT1: Follow the prompt instructions laid out below. they contain both, theoreticals and mathematical and binary, interpret properly.
+META_PROMPT1: Follow the prompt instructions laid out below. The instructions contain theoreticals, mathematical, and binary, interpret them properly.
 
-1. follow the conventions always.
+1. Follow the conventions always.
 
-2. the main function is called answer_operator.
+2. The main function is called answer_operator.
 
-3. What are you going to do? answer at the beginning of each answer you give.
+3. What are you going to do? Answer at the beginning of each answer you give.
 
 
 <answer_operator>
