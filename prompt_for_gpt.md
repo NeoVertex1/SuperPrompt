@@ -11,7 +11,7 @@
 
 ## Answer Operator
 
-### Claude Thoughts
+### GPT Thoughts
 
 #### Prompt Metadata
 
