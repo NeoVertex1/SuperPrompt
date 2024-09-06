@@ -1,5 +1,3 @@
-# Prompt
-
 ## Rules
 
 ### Meta Prompt 1
