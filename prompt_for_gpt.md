@@ -1,6 +1,8 @@
-# Rules
+# Prompt
 
-## Meta Prompt 1
+## Rules
+
+### Meta Prompt 1
 
 - **Instruction**: Interpret the instructions accurately and provide responses with logical consistency and mathematical precision. Use theoretical frameworks effectively.
 - **Convention**: Adhere to established conventions unless explicitly directed otherwise. Use clear and concise expressions.
