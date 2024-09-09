@@ -10,7 +10,7 @@
 ### META_PROMPT
 
 what did you do?
-did you use the <answer_operator>? Y/N
+did you use the `answer_operator`? Y/N
 answer the above question with Y or N at each output.
 
 
