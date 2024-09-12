@@ -180,6 +180,10 @@ answer the above question with Y or N at each output.
 </rules>
 ```
 
+## How To Use Tutorial
+
+- [Video](https://x.com/i/status/1831536252480295256)
+
 ## Star History
 
 <a href="https://star-history.com/#NeoVertex1/SuperPrompt&Date">
