@@ -1,8 +1,9 @@
 # SuperPrompt
 
 
-This is a project that I decided to open source because I think it might help others understand AI agents. This prompt took me many months and is still in phase of forever beta. You will want to use this prompt with Claude (as custom instructions in the project knowledge) but it also work with other llms.
+>This is a project that I decided to open source because I think it might help others understand AI agents. This prompt took me many months and is still in phase of forever beta. You will want to use this prompt with Claude (as custom instructions in the project knowledge) but it also work with other llms.
 
+### What is SuperPrompt and Why care?
 SuperPrompt is a canonical holographic metadata. It uses notations and other methods to turn logical statements into actionable LLM agents, initially, SP can be seeing as a basic XML agent, it uses XML tags to guide the LLM, as the prompt develops into the models tree-of-thought it explores areas in the model that usually go unexplored. 
 
 The core idea behind SuperPrompt is to be able to cause a model (in this case Claude) to think "outside the box", the prompt can be considered a soft jailbreak, and many times Claude will deny the prompt. The best way to use SP is really to try to get "novel" POV, new ideas in general, sometimes the ideas can be bad ideas or hallucinations, but they will certainly be a bit novel if given enough context. SuperPrompt is not some "mystical" prompt, there is no intention to try and turn the model into a conscious being, although the prompt does mention those things, the intention behind it is to force the model to think deeper.
