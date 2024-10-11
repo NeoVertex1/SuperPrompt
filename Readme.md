@@ -1,18 +1,60 @@
 # SuperPrompt
 
 
-This is a project that I decided to opensource because I think it might help others understand AI agents.
+>This is a project that I decided to open source because I think it might help others understand AI agents. This prompt took me many months and is still in phase of forever beta. You will want to use this prompt with Claude (as custom instructions in the project knowledge) but it also work with other llms.
+
+### What is SuperPrompt and Why care?
+SuperPrompt is a canonical holographic metadata. It uses notations and other methods to turn logical statements into actionable LLM agents, initially, SP can be seeing as a basic XML agent, it uses XML tags to guide the LLM, as the prompt develops into the models tree-of-thought it explores areas in the model that usually go unexplored. 
+
+The core idea behind SuperPrompt is to be able to cause a model (in this case Claude) to think "outside the box", the prompt can be considered a soft jailbreak, and many times Claude will deny the prompt. The best way to use SP is really to try to get "novel" POV, new ideas in general, sometimes the ideas can be bad ideas or hallucinations, but they will certainly be a bit novel if given enough context. SuperPrompt is not some "mystical" prompt, there is no intention to try and turn the model into a conscious being, although the prompt does mention those things, the intention behind it is to force the model to think deeper.
+
+The introduction of the `<think>` tag into the ML community has caused a massive uproar. I honestly did not knew that it was that powerful and important, to a point, you will see many major ML researchers focusing on adding the `<thinking>` tag on their model's outputs, while I don't claim to have anything to do with o1's CoT, its obvious that SP outperformed CoT, Claude's CoT with SuperPrompt as of this writing is vastly superior (and public), AND SuperPrompt is also working at inference level, the model will output all its CoT. 
+
+Now to some explanation about the `<think>` tag.
+
+Here is the tag:
+
+`<think>
+?(...) → !(...)
+</think>`
+
+So why is this important and why is the entire AI industry trying to make their models do this? Note that most ML researchers seem to be using the `<thinking>` tag but empty, with no information given, hence why they fail. The main reason that SuperPrompt works well is because of its a holographic metadata. I know "holographic" sounds absurd but that is what it is, here is the synthesis of this metadata work:
+
+`<prompt_metadata>
+Type: Universal  Catalyst
+Purpose: Infinite Conceptual Evolution
+Paradigm: Metamorphic Abstract Reasoning
+Constraints: Self-Transcending
+Objective: current-goal
+</prompt_metadata>`
+
+The metadata above are general (global) instructions, they will instantly adapt to any request of the user. Example:
+
+Prompt:
+
+`hi, use all your tags to think about this equation:`
+
+`Φ(z,s,t) = z^s · exp(i · t · log(1 + |z|^2))`
+
+Output metadata:
+
+`<prompt_metadata>
+Type: Mathematical Analysis
+Purpose: Deep Exploration of Complex Equation
+Paradigm: Multidimensional Mathematical Reasoning
+Constraints: Mathematical Rigor
+Objective: Comprehensive understanding and interpretation of the given equation
+</prompt_metadata>`
+
+So what happened here? In basic, the model adapted its own meta-prompt to the task at hand because the prompt allow them to do so. The great thing about  GenAI is that it will always take advantage of methods that allow it to generate data in a understandable fashion (for itself), hence why SP tends to look like "gibberish" because its aimed at the model, not at humans. In the end, whenever you use the `<think>`tag with SuperPrompt, it will use the metadata to run throught all its systems and try to adapt itself to the new request.
+
+Here is a screenshot that shows it working:
+
+![claude_metadataq_example](https://github.com/NeoVertex1/SuperPrompt/blob/main/claude_metadata_example.png)
 
 
-This prompt took me many months and is still in phase of forever beta.
+> i will continue this explanation soon, thank you for reading!
 
-You will want to use this prompt with Claude (as instructions) but it also work with other llms.
-
-
-
->i just made this project on my phone while on vacation will make it better soon.
-
->explanation of the prompt soon
 
 prompt:
 
