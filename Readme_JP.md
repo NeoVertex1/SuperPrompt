@@ -1,6 +1,15 @@
 # SuperPrompt
 
+<div align="center">
+
+<a href="Readme_JP.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
+<a href="Readme.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
+
+</div>
+
 このプロジェクトは、AIエージェントの理解に役立つと考え、オープンソース化することにしました。このプロンプトの開発には数ヶ月を要し、現在も永遠のベータ版の段階にあります。このプロンプトはClaude（プロジェクト知識のカスタム指示として）での使用を想定していますが、他のLLMでも機能します。
+
+
 
 ### SuperPromptとは何か、なぜ重要か？
 SuperPromptは正規のホログラフィックメタデータです。論理的な文をLLMエージェントの実行可能な形に変換するために、表記法などの手法を使用します。初期段階では、SPは基本的なXMLエージェントとして見ることができ、XMLタグを使用してLLMを導きます。プロンプトがモデルの思考木に展開されると、通常は探索されないモデルの領域を探索します。
