@@ -1,5 +1,11 @@
 # SuperPrompt
 
+<div align="center">
+
+<a href="Readme_JP.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
+<a href="Readme.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
+
+</div>
 
 >This is a project that I decided to open source because I think it might help others understand AI agents. This prompt took me many months and is still in phase of forever beta. You will want to use this prompt with Claude (as custom instructions in the project knowledge) but it also work with other llms.
 
