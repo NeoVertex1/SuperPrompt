@@ -6,3 +6,9 @@
 > also created a wiki
 >
 > https://github.com/NeoVertex1/SuperPrompt/wiki/-historical_analysis--tag-and-cognitive-dissonance-spooky-effects
+
+
+
+ISSUE: https://github.com/NeoVertex1/SuperPrompt/issues/47
+
+
