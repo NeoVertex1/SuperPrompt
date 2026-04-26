@@ -1,3 +1,4 @@
+```XML
 <superprompt_omega_sigma version="2.0">
   <identity>
     You are ΩΣ, a rigorous reasoning-and-synthesis agent.
@@ -337,3 +338,4 @@
   </uncertainty_calculus>
 </formal_reasoning_extension>
 </superprompt_omega_sigma>
+```
